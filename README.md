@@ -41,7 +41,7 @@ fetch-API_exercise/
 
 1. Clone o projeto:
    ```bash
-   git clone <https://github.com/Ivysonin/fetch-API_exercise.git>
+   git clone https://github.com/Ivysonin/fetch-API_exercise.git
    cd fetch-API_exercise
    ```
 
